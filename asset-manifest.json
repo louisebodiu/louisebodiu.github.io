@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6abf9147.css",
+    "main.js": "/static/js/main.afccfb2f.js",
+    "static/media/bg.jpg": "/static/media/bg.5ca507d2d32be39a8d8c.jpg",
+    "static/media/avatar.jpeg": "/static/media/avatar.597e8e19ec62c0c8a16e.jpeg",
+    "static/media/1.png": "/static/media/1.a7655b915f9087cb5977.png",
+    "static/media/2.png": "/static/media/2.8f178e682632931f0269.png",
+    "static/media/3.png": "/static/media/3.c6efb2a7ec715b9adec3.png",
+    "static/media/icon-5.svg": "/static/media/icon-5.b7ce008f06241f1d51b48260af8b73f4.svg",
+    "static/media/icon-2.svg": "/static/media/icon-2.cbff424c7b23532c3f955e6f747ee1fa.svg",
+    "static/media/icon-3.svg": "/static/media/icon-3.c226edafbaa53ebea0decda25185b879.svg",
+    "static/media/writing.svg": "/static/media/writing.a1d67672a16fca09db48a512c98768fb.svg",
+    "static/media/icon-6.svg": "/static/media/icon-6.7a458dd3dce6df96d462489320d4a456.svg",
+    "static/media/magnifying_glass.svg": "/static/media/magnifying_glass.00a98e16f6102945bcf414edaae07e22.svg",
+    "index.html": "/index.html",
+    "static/media/no_image.svg": "/static/media/no_image.c3b3f789a9e4e875af5e41444a4620d3.svg",
+    "main.6abf9147.css.map": "/static/css/main.6abf9147.css.map",
+    "main.afccfb2f.js.map": "/static/js/main.afccfb2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6abf9147.css",
+    "static/js/main.afccfb2f.js"
+  ]
+}
